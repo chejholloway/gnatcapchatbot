@@ -13,7 +13,7 @@ const JokesService = require('./data/jokes');
 const config = {
   FB_MESSAGE_URL: 'https://graph.facebook.com/v2.11/me/messages',
   PROFILE_TOKEN:
-  'EAAbrbL5QocQBACI7b6HELVg2bZAuirsgSn3nkjRSqEW1fHoMgBIvvr55qSQIFPCdAX0cUi48lR9n1azQ0TBW7mQB2tn9XCUWSRRVQyGmwQaEjDEHOK91rdlO0pjofWKZAeZAqovZCdCKWEiSQR6hBZCTsBDY6ZANCkg6CvFzYxiAZDZD',
+  '',
   PORT: process.env.PORT || 5000,
   VERIFY_TOKEN: 'verification-token',
 };
